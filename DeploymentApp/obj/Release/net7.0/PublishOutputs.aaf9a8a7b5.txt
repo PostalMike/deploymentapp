@@ -1,0 +1,7 @@
+C:\Training\Deploying ASPNet Core to Azure App Services\DeploymentApp\DeploymentApp\obj\Release\net7.0\PubTmp\Out\DeploymentApp.exe
+C:\Training\Deploying ASPNet Core to Azure App Services\DeploymentApp\DeploymentApp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Training\Deploying ASPNet Core to Azure App Services\DeploymentApp\DeploymentApp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Training\Deploying ASPNet Core to Azure App Services\DeploymentApp\DeploymentApp\obj\Release\net7.0\PubTmp\Out\DeploymentApp.dll
+C:\Training\Deploying ASPNet Core to Azure App Services\DeploymentApp\DeploymentApp\obj\Release\net7.0\PubTmp\Out\DeploymentApp.deps.json
+C:\Training\Deploying ASPNet Core to Azure App Services\DeploymentApp\DeploymentApp\obj\Release\net7.0\PubTmp\Out\DeploymentApp.runtimeconfig.json
+C:\Training\Deploying ASPNet Core to Azure App Services\DeploymentApp\DeploymentApp\obj\Release\net7.0\PubTmp\Out\DeploymentApp.pdb

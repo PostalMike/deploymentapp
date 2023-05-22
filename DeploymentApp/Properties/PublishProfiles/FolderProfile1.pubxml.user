@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Training\Deploying ASPNet Core to Azure App Services\Zip Deploy</_PublishTargetUrl>
+    <History>True|2023-05-12T14:05:10.2601442Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

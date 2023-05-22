@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Training\Deploying ASPNet Core to Azure App Services\DeploymentAppRetry</_PublishTargetUrl>
+    <History>True|2023-05-12T15:26:12.6985603Z;True|2023-05-12T11:09:33.2288441-04:00;True|2023-05-12T10:15:36.6835351-04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
