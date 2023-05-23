@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DeploymentApp",
+    "\\DeploymentApp\\Pages",
+    "\\DeploymentApp\\Properties",
+    "\\DeploymentApp\\Properties\\PublishProfiles"
   ],
+  "SelectedNode": "\\DeploymentApp\\Pages\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
